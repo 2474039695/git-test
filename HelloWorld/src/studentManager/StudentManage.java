@@ -127,6 +127,7 @@ public class StudentManage {
                 return true;
             }
         }
+        System.out.println("1");
         return false;
     }
 }
